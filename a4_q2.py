@@ -1,13 +1,7 @@
 """
-   CISC-121 2023W
-
+   Python-121 2023W
    Name: Haani Syed
-   Student Number: 20331181
-   Email: 21ahs7@queensu.ca
    Date: 2023-03-15
-
-   I confirm that this assignment solution is my own work and conforms to
-   Queen's standards of Academic Integrity
 """
 #imports important functions needed to be able to run the main radix sort function.
 from functions import char_prime, string_to_list_of_primes, recursive_radix_sort, max_number_for_radix, radix_sort
