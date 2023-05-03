@@ -1,13 +1,9 @@
 """
-   CISC-121 2023W
+   Python-121 2023W
 
    Name: Haani Syed
-   Student Number: 20331181
-   Email: 21ahs7@queensu.ca
-   Date: 2023-03-15
 
-   I confirm that this assignment solution is my own work and conforms to
-   Queen's standards of Academic Integrity
+   Date: 2023-03-15
 """
 """
 -------------------------------------------------------
