@@ -1,13 +1,8 @@
 """
-   CISC-121 2023W
+   Pythpn-121 2023W
 
    Name: Haani Syed
-   Student Number: 20331181
-   Email: 21ahs7@queensu.ca
    Date: 2023-03-15
-
-   I confirm that this assignment solution is my own work and conforms to
-   Queen's standards of Academic Integrity
 """
 from functions import char_prime, primeify, is_anagram #imports functions to be called in lines below.
 def main():
